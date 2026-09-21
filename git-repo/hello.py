@@ -1,4 +1,3 @@
-from numpy import rint
 
 
 print("Hello GitHub!")
