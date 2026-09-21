@@ -9,4 +9,4 @@ print("This line was added directly on GitHub.")
 print("This line was added locally.")
 
 print("This line was added on GitHub.")
-print("This line was added directly on GitHub.")
+print("Adding a new line to github.")
